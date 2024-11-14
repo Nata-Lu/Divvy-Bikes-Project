@@ -10,6 +10,6 @@
 * **Recommandations d’adhésion :** Proposer des actions concrètes et basées sur les données pour renforcer la stratégie marketing de Divvy et favoriser l’adhésion annuelle.
 
 **Accès aux ressources du projet :**
-* Les requêtes SQL utilisées pour le nettoyage, l'organisation et la préparation des données sont accessibles ici.
+* Les requêtes SQL utilisées pour le nettoyage, l'organisation et la préparation des données sont accessibles [ici](DataCleaning.sql).
 * Les requêtes SQL utilisées pour l'exploration et l'analyse des données sont accessibles [ici](Divvy-Bikes-Project/EDA.sql).
 * Les tableaux de bord interactifs sont accessibles sur mon profile Tableau Public [ici](https://public.tableau.com/app/profile/natalial/vizzes).
