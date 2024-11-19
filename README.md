@@ -47,5 +47,43 @@ Pour augmenter le nombre d’abonnés au service Divvy, une analyse comparative 
 **Voyages aller-retour :**
 Les usagers occasionnels sont responsables de 65,88 % des trajets aller-retour, confirmant un usage majoritairement orienté vers les loisirs ou le tourisme.
 
+### Profils identifiés :
+
+**Membres abonnés :**
+Des utilisateurs réguliers, principalement des résidents locaux, qui exploitent le service pour des trajets courts et fonctionnels, liés à des besoins quotidiens comme le travail ou les études.
+
+**Usagers occasionnels :**
+Des utilisateurs irréguliers, souvent touristiques ou orientés vers les loisirs, qui privilégient les week-ends, les trajets plus longs et les zones à forte attractivité culturelle ou touristique.
+
+## Recommandations
+Sur la base des insights obtenus, voici les recommandations stratégiques pour encourager la conversion des usagers occasionnels en membres abonnés :
+
+### 1. Identifier et cibler le bon public
+
+**Cible idéale :** Les usagers occasionnels qui adoptent déjà un comportement similaire à celui des membres abonnés. Cela inclut :
+* Les trajets réalisés en semaine, hors périodes estivales et hors week-ends.
+* Les trajets aux heures de pointe (8h et 17h).
+* Les déplacements entre des stations fréquemment utilisées par les membres abonnés (dans les zones résidentielles ou d’affaires).
+
+**Potentiel de conversion :** Ces utilisateurs ont enregistré plus de **10 000 trajets** au cours de l'année analysée, représentant une opportunité significative.
+
+### 2. Transmettre le bon message
+
+**Axe principal :** Souligner les bénéfices pratiques et financiers de l’abonnement pour un usage régulier.
+**Arguments clés :**
+* **Disponibilité et flexibilité :** Un réseau accessible 24/7, idéal pour éviter les bouchons, les grèves ou les interruptions de service.
+* **Économies :** Comparer le coût d’un abonnement annuel à celui d’un usage ponctuel sur une année.
+* **Simplicité et rapidité :** Pas de temps d’attente ou de réservations nécessaires.
+* **Santé et bien-être :** Opportunité d’intégrer une activité physique dans un mode de vie quotidien.
+
+### 3. Utiliser le bon moment et le bon canal
+
+**Timing idéal :** Immédiatement après un trajet correspondant au profil d’un membre abonné, avant que l’usager occasionnel ne quitte l’application.
+
+**Canal privilégié :** L’application mobile Divvy, avec une notification ou une bannière proposant un abonnement adapté à leurs habitudes d’utilisation.
+
+**Message personnalisé :** Inclure des données sur leurs trajets récents pour illustrer les avantages potentiels de l’abonnement.
+
+
 ## Exemple de Présentation
 La présentation conçue pour l’équipe marketing détaille les insights et recommandations mentionnés ci-dessus. Elle est disponible [ici](https://docs.google.com/presentation/d/1fZtIF8Ym_7UWguF2RbKNNAYg1Ur8ai-JEzc3jjDwqP4/edit?usp=sharing). 
