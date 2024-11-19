@@ -25,5 +25,27 @@ Pour compléter cette analyse, j'utilise également les données des stations du
 
 Plusieurs opérations de nettoyage et de vérification des données ont été effectuées avant de passer à l'analyse. Les requêtes SQL utilisées pour le nettoyage et la manipulation des données sont accessibles [ici](DataCleaning.sql).
 
+## Résumé des Insights
+Pour augmenter le nombre d’abonnés au service Divvy, une analyse comparative des comportements des usagers occasionnels et des membres abonnés a été menée. Les données disponibles ont permis d'examiner leurs profils d’utilisation sur différentes échelles temporelles (journée, semaine, année) et d’évaluer leurs comportements en termes de durée des trajets, types de trajets (aller simple ou aller-retour), et zones principales de concentration des déplacements.
+
+### Principaux enseignements :
+
+**Répartition des utilisateurs :** 
+* Deux tiers des trajets sont effectués par des membres abonnés, reflétant leur engagement régulier avec le service.
+
+**Saisonnalité marquée chez les usagers occasionnels :**
+* Leur utilisation atteint un pic en été (42 % des trajets réalisés entre juin et septembre) et chute fortement en hiver (17 % des trajets en janvier), contrairement aux membres, dont l’usage est plus constant.
+
+**Habitudes d’utilisation :** 
+* Les membres utilisent davantage le service en semaine, avec des pics aux heures de pointe (8h et 17h), ce qui correspond à des trajets domicile-travail ou études.
+* Les usagers occasionnels privilégient les week-ends, avec un pic unique en fin d’après-midi (vers 17h).
+
+**Durée des trajets :**
+* La durée moyenne des trajets est plus courte chez les membres (13 minutes) que chez les usagers occasionnels (25 minutes).
+* La grande majorité des trajets, que ce soit pour les membres (98,54 %) ou les usagers occasionnels (90,84 %), ne dépasse pas les 45 minutes incluses dans la structure tarifaire.
+
+**Voyages aller-retour :**
+Les usagers occasionnels sont responsables de 65,88 % des trajets aller-retour, confirmant un usage majoritairement orienté vers les loisirs ou le tourisme.
+
 ## Exemple de Présentation
 La présentation conçue pour l’équipe marketing détaille les insights et recommandations mentionnés ci-dessus. Elle est disponible [ici](https://docs.google.com/presentation/d/1fZtIF8Ym_7UWguF2RbKNNAYg1Ur8ai-JEzc3jjDwqP4/edit?usp=sharing). 
