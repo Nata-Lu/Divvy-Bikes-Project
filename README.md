@@ -24,3 +24,6 @@ Pour compléter cette analyse, j'utilise également les données des stations du
 ![Divvy data structure](https://github.com/user-attachments/assets/94e0f03f-f2bb-472e-9fda-5b7bd3506342)
 
 Plusieurs opérations de nettoyage et de vérification des données ont été effectuées avant de passer à l'analyse. Les requêtes SQL utilisées pour le nettoyage et la manipulation des données sont accessibles [ici](DataCleaning.sql).
+
+## Exemple de Présentation
+La présentation conçue pour l’équipe marketing détaille les insights et recommandations mentionnés ci-dessus. Elle est disponible [ici](https://docs.google.com/presentation/d/1fZtIF8Ym_7UWguF2RbKNNAYg1Ur8ai-JEzc3jjDwqP4/edit?usp=sharing). 
