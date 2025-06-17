@@ -85,19 +85,18 @@ Sur la base des insights obtenus, voici les recommandations stratégiques pour e
 **Message personnalisé :** Inclure des données sur leurs trajets récents pour illustrer les avantages potentiels de l’abonnement.
 
 ## Visualisation des Données
-Deux dashboards ont été créés pour explorer et analyser les données de manière approfondie :
 
-**Dashboard 1 : Analyse temporelle**
-Ce tableau de bord, disponible sur Tableau Public [ici](https://public.tableau.com/app/profile/natalial/viz/DivvyBikes-Structuretemporelledelusageduservice/Structuretemporelledelusageduservice), permet d’examiner les tendances d’utilisation sur différentes échelles temporelles (journée, semaine, année) et d’évaluer les comportements en termes de durée des trajets.
+Un **dashboard interactif** a été développé avec **Tableau Public** pour analyser et comparer les profils d’utilisation du service de vélopartage par les **utilisateurs abonnés** et les **utilisateurs occasionnels**.
 
-![image](https://github.com/user-attachments/assets/70c58a14-9a15-4912-8330-c309d208bf73)
+🔗 [Accéder au dashboard sur Tableau Public](https://public.tableau.com/views/BikeShareUserProfiles/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Dashboard 2 : Analyse géographique**
-Accessible sur Tableau Public [ici](https://public.tableau.com/app/profile/natalial/viz/DivvyBikes-Structuregographiquedelusageduservice/Structuregographiquedelusageduservice), ce tableau de bord se concentre sur les aspects géographiques de l’utilisation :
-* Classement des 20 stations les plus populaires pour chaque catégorie d’utilisateur.
-* Cartographie des zones d’usage les plus fréquentées pour visualiser la répartition des trajets dans la ville.
+![Aperçu du dashboard interactif](./Member%20vs%20Casual%20Usage.png)
 
-![image](https://github.com/user-attachments/assets/f2fe5455-a964-4452-8ce0-e03157b26e64)
+### Fonctionnalités clés :
+- 📍 **Géographie des trajets** : carte interactive des stations les plus utilisées.
+- 📊 **Analyse temporelle** : par mois, jour de la semaine et heure de la journée.
+- 🚲 **Types de vélos et trajets** : répartition entre vélos classiques, électriques et types d’itinéraires (aller simple vs boucle).
+- 🔄 **Filtrage dynamique** : visualisation personnalisée selon le type d’utilisateur.
 
 ## Exemple de Présentation
 La présentation conçue pour l’équipe marketing détaille les insights et recommandations mentionnés ci-dessus. Elle est disponible [ici](https://docs.google.com/presentation/d/1fZtIF8Ym_7UWguF2RbKNNAYg1Ur8ai-JEzc3jjDwqP4/edit?usp=sharing). 
